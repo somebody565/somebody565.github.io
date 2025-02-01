@@ -1,5 +1,6 @@
 ---
 title: Hello Homaleb
+author: Corentin
 date: 2025-01-31 23:32:00 -500
 categories: [homelab,hardware]
 tags: [servers,dell,hp,supermicro]
