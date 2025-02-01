@@ -12,7 +12,7 @@ Hello and welcome to my blog! Lets start this journey together!
 
 ## Install Docker
 
-To install docker, see [this post](/posts/docker-compose-install/)
+To install docker, see 
 
 ## Install Rancher
 
