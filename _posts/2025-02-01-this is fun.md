@@ -1,7 +1,7 @@
 ---
-title: Hello Homelab!
+title: This is fun!
 author: Corentin
-date: 2025-01-31 23:32:00 -500
+date: 2025-02-01 23:32:00 -500
 categories: [homelab,hardware]
 tags: [servers,dell,hp,supermicro]
 ---
